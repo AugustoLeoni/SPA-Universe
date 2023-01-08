@@ -1,0 +1,13 @@
+body {
+  background-image: url('../images/mountains-universe-3\ \(1\).png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: black;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 10.2rem;
+
+  height: 100vh;
+}
